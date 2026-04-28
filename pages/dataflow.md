@@ -8,4 +8,4 @@ parent: Handbook   # optional grouping
 
 
 
-![workflow of data storage at CMG.](assets/images/flowchart_CMG_Data-2.pdf "Data flow CMG")
+![workflow of data storage at CMG.](assets/images/cmg_data_flow.jpg "Data flow CMG")
