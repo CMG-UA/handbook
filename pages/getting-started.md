@@ -7,7 +7,7 @@ parent: Handbook   # optional grouping
 
 ## Requesting a user account
 For a new user account on the server you can fill in the following form: 
-[Asking for a Biomina server account](https://forms.office.com/Pages/ResponsePage.aspx?id=-wgueVQtjkqvciAlSBNu9pdAd-rLvVxDkz-2yP1KVC9UOE0wRlVOT1UyN1NGTFhJV1M4SjRLT1dIMC4u)
+[Asking for a Biomina server account](https://forms.office.com/Pages/ResponsePage.aspx?id=-wgueVQtjkqvciAlSBNu9pdAd-rLvVxDkz-2yP1KVC9UOE0wRlVOT1UyN1NGTFhJV1M4SjRLT1dIMC4u){: .btn}
 
 
 When you have filled in this form, an account will be made and an email with information will be send to the new user. 

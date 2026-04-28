@@ -1,7 +1,8 @@
 ---
 title: Home
 nav_order: 1
-parent: Handbook   # optional grouping
+parent: Handbook 
+nav_enabled: true  # optional grouping
 ---
 
 # CMG-UA Information
