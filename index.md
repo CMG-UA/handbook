@@ -6,6 +6,7 @@ title: Home
 # CMG-UA Information
 
 Welcome to the CMG-UA info site.
+**Work In Progress**
 
 ## Sections
 - [Getting started](getting-started.md)
