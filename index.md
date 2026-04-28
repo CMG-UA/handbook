@@ -12,7 +12,7 @@ Welcome to the CMG-UA info site.
 
 ## Sections
 - [Getting started](pages/getting-started.md)
-- [Short introduction to SLURM](pages/slurm_recap.md)
 - [How we work](pages/how-we-work.md)
+- [Short introduction to SLURM](pages/slurm_recap.md)
 - [Contacts](pages/contacts.md)
 - [FAQ](pages/faq.md)
