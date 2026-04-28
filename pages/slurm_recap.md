@@ -1,3 +1,8 @@
+---
+title: SLURM recap
+nav_order: 4
+parent: Handbook   # optional grouping
+---
 # SLURM recap
 Here you can find a small and helpful info for slurm usage. 
 

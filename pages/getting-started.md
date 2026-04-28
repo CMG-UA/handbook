@@ -1,3 +1,8 @@
+---
+title: Getting started
+nav_order: 2
+parent: Handbook   # optional grouping
+---
 # Getting started
 
 ## Requesting a user account

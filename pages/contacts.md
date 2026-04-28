@@ -1,3 +1,9 @@
+---
+title: Contacts
+nav_order: 5
+parent: Handbook   # optional grouping
+---
+
 # Contacts
 
 ## Bioinformatics support 
