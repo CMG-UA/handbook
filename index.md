@@ -14,5 +14,6 @@ Welcome to the CMG-UA info site.
 - [Getting started](pages/getting-started.md)
 - [How we work](pages/how-we-work.md)
 - [Short introduction to SLURM](pages/slurm_recap.md)
+- [Data flow CMG](pages/dataflow.md)
 - [Contacts](pages/contacts.md)
 - [FAQ](pages/faq.md)
