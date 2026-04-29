@@ -1,5 +1,5 @@
 ---
-title: dataflow CMG
+title: Dataflow CMG
 nav_order: 5
 parent: Handbook   # optional grouping
 ---
