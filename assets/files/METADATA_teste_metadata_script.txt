@@ -1,0 +1,32 @@
+| Field                   | Description                                                                          |
+|-------------------------|--------------------------------------------------------------------------------------|
+| Project Name            | teste_metadata_script
+| Project Description     | testing the metadatascript
+| Start Project Date      | 29/04/2026
+| Project Status          | in progress
+| User Name               | Marie Hannaert
+| User Email              | marie.hannaert@uantwerpen.be
+| Principal Investigator  | Arvid
+| Collaborator            | Lauren Moons
+| Service Type            | analysis
+| Sample Type             | DNA
+| Organism                | human
+| Cell Line               | /
+| Library  prep           | /
+| Sequencing Platform     | Oxford Nanopore
+| Sequencing Instrument   | /
+| Read Length             | /
+| Paired or Single-End    | PE
+| Sequencing Depth        | 10x
+| Data Format             | FASTQ
+| Data Location           | LTS hopefully
+| Analysis Type           | variant calling
+| Analysis Parameters     | /
+| Reference Genome        | hg38
+| Output Format           | BAM
+| Output Location         | here needed LTS
+| Funding                 | none
+| Analyst Name            | Lauren Moons
+| Publication Link        | /
+| Public Repository Link  | not EGA
+| Comments                | test test
