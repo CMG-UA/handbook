@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&family=Fira+Code&display=swap');
+
+$font-family-sans-serif: 'Atkinson Hyperlegible Next', sans-serif;
+$font-family-monospace: 'Fira Code', monospace;
+
+$body-bg: #fafafa;
+
+// $code-color: #107895;
+// $code-bg:#f1f1f1;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+    font-size: 0.55em !important;
+    text-align: center !important;
+}
+
+.reveal .slide-logo {
+   max-height: 5vw !important;
+}
+
+// replaced by https://stackoverflow.com/questions/78257697/suppressing-logo-on-specific-quarto-reveal-js-slides
+// https://github.com/orgs/quarto-dev/discussions/3417
+// alternative code option to switch between light and dark logo: https://github.com/orgs/quarto-dev/discussions/5439
+.reveal.has-dark-background .slide-logo {
+  display: none !important;
+}
+
+// .reveal .progress {
+//     color: #115e67 !important;
+// }
