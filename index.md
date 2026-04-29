@@ -9,6 +9,7 @@ nav_enabled: true  # optional grouping
 
 Welcome to the CMG-UA info site.
 
+{: .warning }
 **Work In Progress**
 
 [GITHUB page CMG UAntwerp](https://github.com/CMG-UA)
