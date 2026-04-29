@@ -11,9 +11,9 @@ Because now you know what the data is about or what you did with it, but will yo
 
 To help with this we have made two options: 
 
-![Script for generating metadata file](/assets/files/automated_METADATA.sh)
+[Script for generating metadata file](https://github.com/CMG-UA/handbook/blob/master/assets/files/automated_METADATA.sh)
 
-![Input of metadata txt file you can copy](/assets/files/METADATA_teste_metadata_script.txt)
+[Input of metadata txt file you can copy](https://raw.githubusercontent.com/CMG-UA/handbook/refs/heads/master/assets/files/METADATA_teste_metadata_script.txt)
 
 ## Content of the files
 * Script that you can run 

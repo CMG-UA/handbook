@@ -11,6 +11,8 @@ Welcome to the CMG-UA info site.
 
 **Work In Progress**
 
+[GITHUB page CMG UAntwerp](https://github.com/CMG-UA)
+
 ## Sections
 - [Getting started](pages/getting-started.md)
 - [How we work](pages/how-we-work.md)
