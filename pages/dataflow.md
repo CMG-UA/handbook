@@ -6,4 +6,4 @@ parent: Handbook   # optional grouping
 
 # Data flow CMG
 
-![workflow of data storage at CMG.](cmg_data_flow.jpg)
+![workflow of data storage at CMG.](flowchart_CMG_Data-3_page-0001.jpg)
