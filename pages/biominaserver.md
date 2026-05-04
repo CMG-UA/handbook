@@ -5,6 +5,6 @@ parent: Dataflow CMG   # optional grouping
 ---
 # Biomina Server
 
-For an account go to [Getting Started](https://cmg-ua.github.io/handbook/pages/getting-started.html){: .btn}
+For an account go to [Getting started](pages/getting-started.md){: .btn}
 
 ![Biomina server DO's and DON'ts](biominaserver.png)

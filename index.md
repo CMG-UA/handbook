@@ -16,8 +16,10 @@ Welcome to the CMG-UA info site.
 
 ## Sections
 - [Getting started](pages/getting-started.md)
-- [How we work](pages/how-we-work.md)
+- [Information server](pages/how-we-work.md)
 - [Short introduction to SLURM](pages/slurm_recap.md)
 - [Data flow CMG](pages/dataflow.md)
+- [AWS info](pages/AWS.md)
 - [Contacts](pages/contacts.md)
 - [FAQ](pages/faq.md)
+- [Resources](pages/resources.md)
