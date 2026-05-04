@@ -1,8 +1,7 @@
 ---
 title: Resources
-nav_order: 9
-parent: Handbook 
-nav_enabled: true
+nav_order: 2
+parent: FAQ's
 ---
 
 # Resources 
