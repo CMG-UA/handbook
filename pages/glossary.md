@@ -1,6 +1,6 @@
 ---
 title: Glossary
-nav_order: 9
+nav_order: 1
 parent: FAQ's   # optional grouping
 ---
 # Glossary
