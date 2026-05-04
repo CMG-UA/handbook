@@ -22,3 +22,6 @@ In /opt/  you’ll find different pre-installed software packages as well as som
 * /opt/software/ 
 * /opt/NGS/References/
 * /opt/shared_files/slurm_template/
+
+## Before working on the server 
+It is very important that you read the following page and try to understand everything that is written there: [Server information](pages/how-we-work.md){: .btn}
