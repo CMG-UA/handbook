@@ -17,7 +17,7 @@ There are two options:
 
 Normally, if you follow these installation instructions, it should all go very smoothly.
 
-{: .note } 
+{:  .note    }
 If you work on a mac, you can just use the terminal and don't need to install any extras. 
 
 ## Moving files from local to the server 
