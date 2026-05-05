@@ -16,7 +16,7 @@ callouts:
     color: red
   important:
     title: Important
-    color: blue
+    color: green
 
 
 # Optional: nice UX
