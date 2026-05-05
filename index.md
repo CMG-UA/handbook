@@ -5,7 +5,7 @@ parent: Handbook
 nav_enabled: true  # optional grouping
 ---
 
-# CMG-UA Information
+# CMG-UAntwerp Information
 
 Welcome to the CMG-UA info site.
 
