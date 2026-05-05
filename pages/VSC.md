@@ -43,6 +43,7 @@ myprojectaccounts
 * Snapshot of the output of the `groups` command and the `myprojectaccounts` command on the VSC Tier-2.
 ![Snapshot of groups output etc](snapshot_groups.png)
 
+{:  .note   }
 If you need to be added to a group, contact your group leader or request access via the VSC account portal.
 
 ### Making a group
