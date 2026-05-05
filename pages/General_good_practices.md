@@ -50,13 +50,24 @@ The `data/` subdirectory in each project requires special attention. You’ll no
 
 When you modify a file through either a symlink or hard link, you're changing the same underlying content.
 
+````bash
+#Making a hard link:
+$ ln <path to original file> <path where you want the file> 
+#filled in example
+$ ln /home/shared_data_medgen_bio-informatics/Incoming_data/*.fastq.gz /home/mhannaert/project_2/data/
+#Making a symbolic link:
+$ ln -s <path to original file> <path where you want the file> 
+#filled in example
+$ ln -s /home/shared_data_medgen_bio-informatics/Incoming_data/*.fastq.gz /home/mhannaert/project_2/data/
+
+````
 {: .important }
 **Most important takeaway:** DO NOT COPY DATA TO MULTIPLE LOCATIONS!  
 Instead, use links to keep data organized and easily accessible.
 
-#### (Placeholder) Figures
-- *An example of a good structure:* (add screenshot / figure here)
-- *An example of a bad directory “structure”*: (add screenshot / figure here)
+
+- *An example of a good structure:* ![Example of good directory structure](goodfolderstructure.png)
+- *An example of a bad directory “structure”:* ![Example of bad folder structure.](badfolder.png)
 
 ---
 
