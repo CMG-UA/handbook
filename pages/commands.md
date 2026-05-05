@@ -45,10 +45,8 @@ cd -       # go back to the previous directory
 cd ~       # go to your home directory
 ```
 
-{:  .note    }
-Tab completion (very useful). Start typing a path/filename and press **Tab** to auto-complete. And double tab to see options to complete. 
 
----
+{:  .note    }Tab completion (very useful). Start typing a path/filename and press **Tab** to auto-complete. And double tab to see options to complete. 
 
 ## Creating directories and files
 
