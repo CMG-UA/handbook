@@ -1,13 +1,14 @@
 ---
 title: VSC
-nav_order: 7
+nav_order: 8
 parent: Handbook   # optional grouping
 ---
 
 # VSC (Flemish Super Computer)
 # Getting Started on the VSC (Tier-2 at UAntwerpen)
 
-It is highly recommended to use the VSC. If you have questions about this, don’t hesitate to ask!\
+It is highly recommended to use the VSC. If you have questions about this, don’t hesitate to ask!
+
 {:  .warning    }
 >Read the documentation. The VSC is **not** long-term storage.
 
