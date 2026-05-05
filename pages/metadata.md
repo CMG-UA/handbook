@@ -7,7 +7,7 @@ parent: LTS (long term storage)  # optional grouping
 # Metadata 
 
 Adding metadata to your directory is so important! \
-Because now you know what the data is about or what you did with it, but will you still remember this in tree years?? 
+Because now you know what the data is about or what you did with it, but will you still remember this in three years? 
 
 
 

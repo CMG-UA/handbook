@@ -5,7 +5,7 @@ parent: Dataflow CMG   # optional grouping
 ---
 # Biomina Server
 
-Here you need to be for analysing a lot or big data.\
+Here you need to be for analysing large amounts of data.\
 For an account go to [Getting started](https://cmg-ua.github.io/handbook/pages/getting-started.html){: .btn}
 
 ![Biomina server DO's and DON'ts](biominaserver.png)

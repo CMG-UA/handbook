@@ -10,9 +10,9 @@ For a new user account on the server you can fill in the following form:
 [Asking for a Biomina server account](https://forms.office.com/Pages/ResponsePage.aspx?id=-wgueVQtjkqvciAlSBNu9pdAd-rLvVxDkz-2yP1KVC9UOE0wRlVOT1UyN1NGTFhJV1M4SjRLT1dIMC4u){: .btn}
 
 
-When you have filled in this form, an account will be made and an email with information will be send to the new user. 
+When you have filled in this form, an account will be made and an email with information will be sent to the new user. 
 
-## First time loggin in
+## First time logging in
 The server address is: login.biomina.be (143.169.238.111)
 
 You need your username and password (if first time logging in the tmp password) to log in to our login server with your favorite ssh client. 

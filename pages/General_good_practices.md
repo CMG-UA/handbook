@@ -66,7 +66,7 @@ A data management plan is a formal document in which you outline how your resear
 
 Creating a DMP before you even start with the collection of the data will save you time and frustration in the future — it’s not just a requirement for applying for FWO funding, but it’s a very valuable practice that benefits your entire research process.
 
-Don’t fall in the “I’ll organise this later” trap: very often during pipeline/script development, you quickly create a large amount of temporary files (e.g. for testing, failed pipeline runs, etc.). Experience taught us that before you know it, you have to deal with overcrowded and chaotic directories, which take a lot of time to clean up and navigate.
+Don’t fall into the “I’ll organise this later” trap: very often during pipeline/script development, you quickly create a large amount of temporary files (e.g. for testing, failed pipeline runs, etc.). Experience taught us that before you know it, you have to deal with overcrowded and chaotic directories, which take a lot of time to clean up and navigate.
 
 By creating a clear DMP (in which you also state your directory structure rules), you will never run into this issue — at least if you stick to your own rules :-)
 
