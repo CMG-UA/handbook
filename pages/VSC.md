@@ -10,7 +10,7 @@ parent: Handbook   # optional grouping
 It is highly recommended to use the VSC. If you have questions about this, don’t hesitate to ask!
 
 {:  .warning    }
->Read the documentation. The VSC is **not** long-term storage.
+Read the documentation. The VSC is **not** long-term storage. 
 
 ## Personal Account
 
