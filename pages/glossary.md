@@ -157,6 +157,18 @@ Combining changes from one branch into another (often into `main`).
 
 ---
 
+## N
+
+### Nextflow
+A workflow manager for running pipelines (multi-step analyses) in a reproducible way.  
+It lets you define steps (processes) and how data flows between them, then runs them locally, on HPC (often with Slurm), or in the cloud.
+
+Commonly used with:
+- **Containers** (Docker/Apptainer) to ensure the same software versions
+- **nf-core**: a community collection of well-tested Nextflow pipelines
+
+---
+
 ## O
 
 ### Open source
@@ -222,6 +234,15 @@ A Slurm command that shows jobs currently in the queue (waiting or running).
 A widely used job scheduler for HPC clusters.  
 It controls access to shared compute resources: you request resources (CPUs/GPUs/memory/time), submit a job, and Slurm runs it when resources are available.
 
+### Snakemake
+A workflow manager (often used in bioinformatics/data science) to run analyses in multiple steps reliably.  
+You write rules like “to make file B, run this command using file A”, and Snakemake figures out what needs to run, in what order, and what can run in parallel.
+
+Helpful features:
+- Automatically re-runs only steps whose inputs changed
+- Can run locally, on HPC (e.g., Slurm), or in the cloud
+- Works well with **Conda** and/or **containers** for reproducible software environments
+
 ### Server
 A computer that provides services to other computers (often accessed remotely).  
 In practice: “a computer you connect to over the network to run code or store data”.
@@ -242,4 +263,32 @@ Example: you can use SSH to log into a remote machine without physically being t
 A text-based window where you type commands (especially common on Linux/macOS and servers).
 
 ### Time limit / wall time (Slurm)
-The maximum amount of real clock time your
+The maximum amount of real clock time your job is allowed to run.  
+If it exceeds this limit, it may be stopped automatically.
+
+---
+
+## V
+
+### Version control
+A system for tracking changes to files over time (Git is the most common one in software projects).
+
+---
+
+## W
+
+### Workflow (GitHub Actions)
+An automated set of steps that run on GitHub (tests, building docs, formatting checks, etc.).  
+Example: automatically run tests every time someone opens a pull request.
+
+### Workflow manager
+Software that helps you run a multi-step analysis (a “pipeline”) in a reliable and reproducible way.
+
+Instead of manually running step 1, then step 2, then step 3 (and trying to remember what you did), a workflow manager:
+- Defines each step and its inputs/outputs
+- Figures out the correct order automatically
+- Can run independent steps in parallel (faster)
+- Can restart and continue after interruptions
+- Often integrates with **HPC schedulers** (like **Slurm**) and **containers** (Docker/Apptainer)
+
+Examples: **Snakemake**, **Nextflow**.

@@ -10,6 +10,12 @@ plugins:
 baseurl: "/handbook"
 url: "https://cmg-ua.github.io"
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+
 # Optional: nice UX
 search_enabled: true
 heading_anchors: true
