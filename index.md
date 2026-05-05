@@ -20,6 +20,7 @@ Welcome to the CMG-UA info site.
 - [Short introduction to SLURM](pages/slurm_recap.md)
 - [Data flow CMG](pages/dataflow.md)
 - [AWS info](pages/AWS.md)
+- [Github info](pages/github.md)
 - [Contacts](pages/contacts.md)
 - [FAQ](pages/faq.md)
-- [Resources](pages/resources.md)
+
