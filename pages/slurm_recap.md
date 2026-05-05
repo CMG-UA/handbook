@@ -59,7 +59,7 @@ Getting info about the nodes
 ````
 sinfo
 ````
-Canceling a job (first with ID, second all the jobs of a yourself)
+Canceling a job (first by job ID, second all jobs for yourself)
 ````
 scancel <ID out of squeue>
 scancel -u <your username>

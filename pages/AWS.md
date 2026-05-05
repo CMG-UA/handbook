@@ -40,7 +40,7 @@ It is also possible to retrieve something from Deep Glacier, but this comes with
 
 ### Setting up
 
-You need an AWS account. This can be asked by Arvid/Marie/Jeanette.
+You need an AWS account. This can be requested from Arvid/Marie/Jeanette.
 
 If you have this, you need to go in the upper bar to **EC2**. Here you check on top the **region**; it needs to be **Europe**.
 
