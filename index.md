@@ -13,10 +13,7 @@ Welcome to the CMG-UA info site.
 **Work In Progress**
 
 {: .warning }
-Rules you must apply any time:
-*	Think before you type!
-*	Think before you press ENTER
-*	With great power comes great responsibility
+Rules you must apply any time: 1.Think before you type! 2.Think before you press ENTER 3.With great power comes great responsibility
 
 
 [GITHUB page CMG UAntwerp](https://github.com/CMG-UA)
