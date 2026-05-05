@@ -103,7 +103,7 @@ Delete a directory (and everything inside):
 rm -r my_folder
 ```
 
-{: .important }
+{: .warning }
 `rm` permanently deletes files (there is usually no “Recycle Bin” on servers). Double-check before running `rm -r`.
 
 ---
