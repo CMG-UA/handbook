@@ -9,6 +9,29 @@ parent: LTS (long term storage)  # optional grouping
 Adding metadata to your directory is so important! \
 Because now you know what the data is about or what you did with it, but will you still remember this in tree years?? 
 
+
+
+As stated multiple times before, it is strongly recommended to add metadata files in your directories: these documentation files contain critical context about how/when your data was generated, processed, etc.
+
+The more detailed your metadata file is, the more you:
+
+- help your future self understand your own work months or even years later
+- enable colleagues or successors to build upon your research findings effectively
+- increase findability & reproducibility of your findings
+- fulfil the requirements for data sharing and publication (!)
+
+Storing your DMP alongside your data can serve as a foundational metadata document: this file contains even more important information and can serve as a very handy reference point for anyone accessing the dataset.
+
+### Examples of information in a metadata file
+
+- Sequencing machine
+- Settings for data generation
+- Pipeline used to analyse the data
+- Parameters used for certain tools
+- Location of the source code
+- Versioning of tools that are used
+
+
 To help with this we have made two options: 
 
 [Script for generating metadata file](https://github.com/CMG-UA/handbook/blob/master/assets/files/automated_METADATA.sh)
