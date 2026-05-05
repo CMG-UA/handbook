@@ -24,4 +24,4 @@ In /opt/  you’ll find different pre-installed software packages as well as som
 * /opt/shared_files/slurm_template/
 
 ## Before working on the server 
-It is very important that you read the following page and try to understand everything that is written there: [Server information](how-we-work.md){: .btn}
+It is very important that you read the following page and try to understand everything that is written there: [Server information](https://cmg-ua.github.io/handbook/pages/how-we-work.html){: .btn}

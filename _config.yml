@@ -17,6 +17,9 @@ callouts:
   important:
     title: Important
     color: green
+  note:
+    title: Note
+    color: yellow
 
 
 # Optional: nice UX
